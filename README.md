@@ -1,7 +1,7 @@
 # COMP1238Lab3
 
 ## Student Info
-Student Name: Eric Zhou
+Student Name: Eric Zhou \n
 Student ID: 101333908
 
 ## Number row characters
